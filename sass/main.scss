@@ -1,5 +1,5 @@
 // colors
-$bg-color: #ffffff;
+$bg-color: #fff;
 $logo-color: #fa0f00;
 
 html,
@@ -175,7 +175,7 @@ body {
     height: 17vmin;
     background: $logo-color;
     top: 57.5vmin;
-    left: 19vmin;
+    left: 19.1vmin;
   }
 }
 
@@ -220,7 +220,7 @@ body {
       height: 3.5vmin;
       background: $bg-color;
       left: 3.1vmin;
-      border-radius: 0 0 8vmin 8vmin;
+      border-radius: 0 0 7vmin 7vmin;
     }
 
     &::after {
